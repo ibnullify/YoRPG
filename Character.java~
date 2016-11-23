@@ -37,5 +37,5 @@ public abstract class Character{
 	protected abstract String about();
     protected abstract void specialize();
     protected abstract void normalize();
-    
+   
 }
